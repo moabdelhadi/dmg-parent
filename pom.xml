@@ -22,7 +22,7 @@
 	<modules>
 	  <module>../dmg-core</module>
 	  <module>../dmg-rg-admin</module>
-	  <module>../dmg-rg-client</module>     
+	  <module>../dmg-rg-client-v2</module>     
 	</modules>
 
 </project>
